@@ -16,7 +16,7 @@ const config = {
     "Computational complexity",
     "Bayesian Inference",
     "Sequential Monte Carlo methods (SMC)",
-    "Markov chain Monte Carlo algorithms",
+    "Markov chain Monte Carlo algorithms (MCMC)",
     "Randomized Algorithms"
   ],
   education: [
