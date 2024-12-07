@@ -2,9 +2,6 @@
   "name": "joe-website",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "node": ">=18.0.0"
-  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -12,24 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "class-variance-authority": "^0.7.1",
-    "clsx": "^2.1.1",
-    "lucide-react": "^0.298.0",
-    "next": "^14.0.0",
+    "next": "^14.0.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "tailwind-merge": "^2.5.5",
-    "tailwindcss-animate": "^1.0.7"
+    "lucide-react": "^0.299.0"
   },
   "devDependencies": {
-    "@types/node": "^20.11.0",
-    "@types/react": "^19.0.1",
-    "@types/react-dom": "^19.0.1",
-    "autoprefixer": "^10.4.20",
-    "eslint": "^8.0.0",
-    "eslint-config-next": "^14.0.0",
-    "postcss": "^8.4.49",
-    "tailwindcss": "^3.4.16",
-    "typescript": "^5.7.2"
+    "@types/node": "^20.10.4",
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.3.6",
+    "typescript": "^5.3.3"
   }
 }

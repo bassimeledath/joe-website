@@ -9,7 +9,7 @@ const config = {
   },
   aboutMe: {
     text: "Joseph R. Mathews is a PhD candidate in Statistical Science at Duke University, focusing on computational complexity, Bayesian inference, and Monte Carlo algorithms.",
-    imageUrl: "https://raw.githubusercontent.com/bassimeledath/image-pub-url-generator/main/images/1733600814286_462640942_1135402248206757_8159288900312744016_n.jpg",
+    imageUrl: "/placeholder.svg?height=300&width=300",
     cvUrl: "/path-to-your-cv.pdf"
   },
   researchInterests: [
