@@ -15,7 +15,7 @@ const config = {
   researchInterests: [
     "Computational complexity",
     "Bayesian Inference",
-    "Sequential Monte Carlo methods",
+    "Sequential Monte Carlo methods (SMC)",
     "Markov chain Monte Carlo algorithms",
     "Randomized Algorithms"
   ],
