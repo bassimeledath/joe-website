@@ -9,7 +9,7 @@ const config = {
     ]
   },
   aboutMe: {
-    text: "Joseph R. Mathews is a PhD candidate in Statistical Science at Duke University, focusing on computational complexity, Bayesian inference, and Monte Carlo algorithms.\n\n Here are my research interests:\n• Computational complexity\n• Bayesian Inference\n• Sequential Monte Carlo methods (SMC)\n• Markov chain Monte Carlo algorithms (MCMC)\n• Randomized Algorithms",
+    text: "Joseph R. Mathews is a PhD candidate in Statistical Science at Duke University, focusing on computational complexity, Bayesian inference, and Monte Carlo algorithms.\n\n Here are my research interests:\n• Computational complexity\n• Bayesian Inference\n• Sequential Monte Carlo methods (SMC)\n• Markov chain Monte Carlo algorithms (MCMC)\n• Randomized Algorithms \n Hi here's more stuff",
     imageUrl: "/images/profile.jpg",
     cvUrl: "/cv/cv.pdf"
   },
@@ -18,7 +18,7 @@ const config = {
       degree: "Ph.D.",
       field: "Statistical Science",
       institution: "Duke University",
-      timeline: "Aug. 2019 - May 2024 [Expected]",
+      timeline: "Aug. 2019 - May 2025 [Expected]",
       advisor: "Scott C. Schmidler",
       dissertation: "Computational Complexity of Sequential Monte Carlo Algorithms"
     },
