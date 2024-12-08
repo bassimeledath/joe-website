@@ -28,7 +28,7 @@ const formatJournalInfo = (pub: {
   if (pub.volume) parts.push(pub.volume);
   if (pub.pages) parts.push(pub.pages);
   if (pub.year) parts.push(pub.year);
-  
+
   return parts.join(", ");
 };
 
@@ -49,10 +49,10 @@ export default function Publications() {
               {formatJournalInfo(publication)}
             </div>
             {publication.url && (
-              <a 
-                href={publication.url} 
-                target="_blank" 
-                rel="noopener noreferrer" 
+              <a
+                href={publication.url}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-blue-600 hover:underline"
               >
                 View Publication
