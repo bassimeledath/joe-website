@@ -5,12 +5,6 @@ import ReactMarkdown from 'react-markdown'
 export default function Research() {
   return (
     <div>
-      <h2 className="text-2xl font-bold mb-4">Research Interests</h2>
-      <ul className="list-disc list-inside mb-8">
-        {config.researchInterests.map((interest, index) => (
-          <li key={index}>{interest}</li>
-        ))}
-      </ul>
       <h2 className="text-2xl font-bold mb-4">Research</h2>
       {config.researchExperience.map((experience, index) => (
         <div key={index} className="mb-8">

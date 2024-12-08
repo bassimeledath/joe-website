@@ -49,9 +49,11 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div className="md:w-2/3 md:pl-8">
+      <div className="md:w-2/3 px-8">
         <h2 className="text-2xl font-bold mb-4">About Me</h2>
-        <p className="mb-4">{config.aboutMe.text}</p>
+        <p className="text-lg mb-8 whitespace-pre-line">
+          {config.aboutMe.text}
+        </p>
       </div>
     </div>
   )
