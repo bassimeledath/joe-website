@@ -84,7 +84,6 @@ const config = {
     }
   ],
   footer: {
-    note: "References available upon request",
     copyright: "2024 Joseph R. Mathews"
   }
 };
