@@ -11,12 +11,12 @@ export default function Research() {
           <div className="border-l-2 border-gray-300 pl-4">
             <h3 className="text-xl font-semibold">{experience.title}</h3>
             {experience.imagePath && (
-              <div className="my-4 relative w-full h-[300px]">
+              <div className="my-4 relative w-3/4 aspect-[16/7]">
                 <Image
                   src={experience.imagePath}
                   alt={experience.title}
                   fill
-                  className="object-cover rounded-lg"
+                  className="object-left object-contain rounded-lg"
                 />
               </div>
             )}
@@ -24,9 +24,9 @@ export default function Research() {
               <ReactMarkdown
                 components={{
                   a: ({ node, ...props }) => (
-                    <a 
-                      {...props} 
-                      target="_blank" 
+                    <a
+                      {...props}
+                      target="_blank"
                       rel="noopener noreferrer"
                       className="text-blue-600 hover:text-blue-800 underline"
                     />
