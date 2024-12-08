@@ -1,7 +1,8 @@
 const config = {
   header: {
     name: "Joseph R. Mathews",
-    email: "joseph.mathews@duke.edu",
+    email: "jrm133@duke.edu",
+    phone: "931-249-7415",
     socialLinks: [
       { name: "LinkedIn", url: "https://www.linkedin.com/in/joseph-r-mathews" },
       { name: "GitHub", url: "https://github.com/joseph-r-mathews" }
