@@ -33,7 +33,7 @@ const config = {
     {
       title: "Finite Sample Complexity Bounds for Sequential Monte Carlo Methods",
       description: "Derived computational complexity bounds for sequential Monte Carlo algorithms in various settings.",
-      //imagePath: "/images/research/smc-complexity.jpg"
+      imagePath: "/images/research/Final.png"
     },
     {
       title: "Modeling HIV-1 Broadly Neutralizing Antibodies Mutations",
