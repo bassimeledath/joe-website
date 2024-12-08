@@ -16,7 +16,7 @@ export default function Research() {
                   src={experience.imagePath}
                   alt={experience.title}
                   fill
-                  className="object-left object-contain rounded-lg"
+                  className="object-left object-contain"
                 />
               </div>
             )}
