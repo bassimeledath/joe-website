@@ -7,7 +7,7 @@ export default function Home() {
     <div className="flex flex-col md:flex-row items-center justify-center">
       <div className="md:w-1/3 mb-8 md:mb-0 flex flex-col items-center">
         <Image
-          src="https://raw.githubusercontent.com/bassimeledath/image-pub-url-generator/main/images/1733611196306_462640942_1135402248206757_8159288900312744016_n.jpg"
+          src={config.aboutMe.imageUrl}
           alt={config.header.name}
           width={300}
           height={300}
