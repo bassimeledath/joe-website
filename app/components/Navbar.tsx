@@ -23,7 +23,7 @@ export default function Navbar() {
     <header className="bg-white shadow-sm">
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center py-4">
-          <h1 className="text-2xl font-bold text-black">{config.header.name}</h1>
+          <h1 className="text-2xl font-bold text-black hover:bg-gradient-to-r hover:from-blue-600 hover:to-purple-600 hover:bg-clip-text hover:text-transparent transform hover:scale-105 transition-all duration-300 cursor-default">{config.header.name}</h1>
           
           {/* Mobile menu button */}
           <button
