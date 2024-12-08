@@ -36,9 +36,9 @@ export default function Publications() {
   return (
     <div className="max-w-4xl">
       <h2 className="text-2xl font-bold mb-4">Publications</h2>
-      <ul className="list-disc pl-5 space-y-6">
+      <ul className="pl-5 space-y-6">
         {config.publications.map((publication, index) => (
-          <li key={index}>
+          <li key={index} className="border-l-2 border-gray-300 pl-4">
             <div className="text-lg mb-1">
               {publication.title}
             </div>
@@ -64,4 +64,3 @@ export default function Publications() {
     </div>
   );
 }
-
