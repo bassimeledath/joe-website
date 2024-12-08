@@ -39,15 +39,13 @@ const config = {
   researchExperience: [
     {
       title: "Finite Sample Complexity Bounds for Sequential Monte Carlo Methods",
-      institution: "Duke University",
-      timeline: "May 2020 - Present",
-      description: "Derived computational complexity bounds for sequential Monte Carlo algorithms in various settings."
+      description: "Derived computational complexity bounds for sequential Monte Carlo algorithms in various settings.",
+      //imagePath: "/images/research/smc-complexity.jpg"
     },
     {
       title: "Modeling HIV-1 Broadly Neutralizing Antibodies Mutations",
-      institution: "Duke University",
-      timeline: "May 2022 - Present",
-      description: "Designed a sampling algorithm for simulating somatic hypermutation processes."
+      description: "Designed a [sampling algorithm](https://en.wikipedia.org/wiki/Somatic_hypermutation) for simulating somatic hypermutation processes.",
+      imagePath: "/images/research/hiv-mutations.jpg"
     }
   ],
   publications: [
