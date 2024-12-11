@@ -2,14 +2,14 @@ const config = {
   header: {
     name: "Joseph R. Mathews",
     email: "jrm133@duke.edu",
-    phone: "931-249-7415",
+    phone: "",
     socialLinks: [
       { name: "LinkedIn", url: "https://www.linkedin.com/in/joseph-mathews-47965b251/" },
       { name: "GitHub", url: "https://github.com/joseph-r-mathews" }
     ]
   },
   aboutMe: {
-    text: "Joseph R. Mathews is a PhD candidate in Statistical Science at Duke University, focusing on computational complexity, Bayesian inference, and Monte Carlo algorithms.\n\n Here are my research interests:\n• Computational complexity\n• Bayesian Inference\n• Sequential Monte Carlo methods (SMC)\n• Markov chain Monte Carlo algorithms (MCMC)\n• Randomized Algorithms \n Hi here's more stuff",
+    text: "Joseph R. Mathews is a PhD candidate in Statistical Science at Duke University, focusing on computational complexity, Bayesian inference, and Monte Carlo algorithms.\n\n Here are my research interests:\n• Computational complexity\n• Bayesian Inference\n• Sequential Monte Carlo methods (SMC)\n• Markov chain Monte Carlo algorithms (MCMC)\n• Randomized Algorithms",
     imageUrl: "/images/profile.jpg",
     cvUrl: "/cv/cv.pdf"
   },
