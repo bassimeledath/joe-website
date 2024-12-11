@@ -2,7 +2,7 @@ const config = {
   header: {
     name: "Joseph R. Mathews",
     email: "jrm133@duke.edu",
-    phone: "",
+    //phone: "",
     socialLinks: [
       { name: "LinkedIn", url: "https://www.linkedin.com/in/joseph-mathews-47965b251/" },
       { name: "GitHub", url: "https://github.com/joseph-r-mathews" }
