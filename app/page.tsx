@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import { FileText, Linkedin, Mail, Phone } from 'lucide-react'
+import { FileText, Linkedin, Mail } from 'lucide-react'
 import config from '../config'
 
 export default function Home() {
@@ -22,10 +22,6 @@ export default function Home() {
               <Mail className="mr-2 h-4 w-4" />
               {config.header.email}
             </a>
-            <span className="inline-flex items-center px-3 py-2 text-sm text-gray-600">
-              <Phone className="mr-2 h-4 w-4" />
-              {config.header.phone}
-            </span>
           </div>
           <div className="flex space-x-4 justify-center">
             <a
