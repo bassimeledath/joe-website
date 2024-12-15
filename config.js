@@ -43,28 +43,28 @@ const config = {
   ],
   publications: [
     {
-      title: "Finite sample L2 bounds for sequential Monte Carlo and adaptive path selection",
+      title: "Finite sample complexity of sequential Monte Carlo estimators on multimodal target distributions",
       authors: {
-        text: "Mathews, J. R., & Schmidler, S. C.",
-        highlight: "Mathews, J. R."
+        text: "Mathews, J., & Schmidler, S. C.",
+        highlight: "Mathews, J."
       },
-      journal: "Journal of Statistical Theory",
-      volume: "45",
-      pages: "123-145",
-      year: "2022",
-      url: "https://example.com/paper1"
+      journal: "Annals of Applied Probability",
+      volume: "34(1B)",
+      pages: "1199-1223",
+      year: "2024",
+      url: "https://doi.org/10.1214/23-AAP1989"
     },
     {
       title: "Finite sample complexity of sequential Monte Carlo estimators",
       authors: {
-        text: "Mathews, J. R., Schmidler, S. C., & Smith, A. B.",
-        highlight: "Mathews, J. R."
+        text: "Marion, J., Mathews, J., & Schmidler, S. C.",
+        highlight: "Mathews, J."
       },
-      journal: "Journal of Computational and Graphical Statistics",
-      volume: "12",
-      pages: "234-256",
-      year: "2022",
-      url: "https://doi.org/10.48550/arXiv.1803.09365"
+      journal: "Annals of Statistics",
+      volume: "51(3)",
+      pages: "1357-1375",
+      year: "2023",
+      url: "https://doi.org/10.1214/23-AOS2295"
     }
   ],
   teachingExperience: [
