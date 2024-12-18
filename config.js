@@ -36,7 +36,7 @@ const config = {
     },
     {
       title: "Modeling HIV-1 Broadly Neutralizing Antibodies Mutations",
-      description: "Designed a [sampling algorithm](https://en.wikipedia.org/wiki/Somatic_hypermutation) for simulating somatic hypermutation processes.",
+      description: "Designed a sampling for simulating somatic hypermutation processes.",
       imagePath: "/images/research/SOSIP_pyblue_hifi.png"
     }
   ],
