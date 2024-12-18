@@ -8,7 +8,7 @@ const config = {
     ]
   },
   aboutMe: {
-    text: "Joseph R. Mathews is a PhD candidate in Statistical Science at Duke University, focusing on computational complexity, Bayesian inference, and Monte Carlo algorithms.\n\n Here are my research interests:\n• Computational complexity\n• Bayesian Inference\n• Sequential Monte Carlo methods (SMC)\n• Markov chain Monte Carlo algorithms (MCMC)\n• Randomized Algorithms",
+    text: "I'm a PhD candidate in Statistical Science at Duke University, focusing on computational complexity, Bayesian inference, Monte Carlo algorithms, and computational vaccine design problems.\n\n Here are my research interests:\n• Computational complexity\n• Bayesian Inference\n• Sequential Monte Carlo methods (SMC)\n• Markov chain Monte Carlo algorithms (MCMC)\n• Randomized Algorithms",
     imageUrl: "/images/profile.jpg",
     cvUrl: "/cv/cv.pdf"
   },
@@ -30,8 +30,8 @@ const config = {
   ],
   researchExperience: [
     {
-      title: "Finite Sample Complexity Bounds for Sequential Monte Carlo Methods",
-      description: "I am interested in Sequential Monte Carlo (SMC) algorithms and their theoretical foundations. My previous work includes deriving finite sample complexity bounds for SMC methods in [general settings](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-3/Finite-sample-complexity-of-sequential-Monte-Carlo-estimators/10.1214/23-AOS2295.short) and specifically for SMC algorithms designed to sample from [multimodal probability distributions](https://projecteuclid.org/journals/annals-of-applied-probability/volume-34/issue-1B/Finite-sample-complexity-of-sequential-Monte-Carlo-estimators-on-multimodal/10.1214/23-AAP1989.short), addressing the challenges posed by such complex target distributions (Ref 2)",
+      title: "Sequential Monte Carlo Algorithms",
+      description: "I am interested in Sequential Monte Carlo (SMC) algorithms and their theoretical foundations. My previous work includes deriving finite sample complexity bounds for SMC methods in [general settings](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-3/Finite-sample-complexity-of-sequential-Monte-Carlo-estimators/10.1214/23-AOS2295.short) and specifically for SMC algorithms designed to sample from [multimodal probability distributions](https://projecteuclid.org/journals/annals-of-applied-probability/volume-34/issue-1B/Finite-sample-complexity-of-sequential-Monte-Carlo-estimators-on-multimodal/10.1214/23-AAP1989.short), addressing the challenges posed by such complex target distributions.",
       imagePath: "/images/research/Final.png"
     },
     {
@@ -79,7 +79,7 @@ const config = {
     {
       title: "Computational Complexity of Sequential Monte Carlo Samplers on Multimodal Target Distributions",
       event: "Duke University Seminar",
-      date: "March 2022"
+      date: "September 2024"
     }
   ],
   footer: {
