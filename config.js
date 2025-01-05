@@ -31,12 +31,12 @@ const config = {
   researchExperience: [
     {
       title: "Sequential Monte Carlo Algorithms",
-      description: "I am interested in Sequential Monte Carlo (SMC) algorithms and their theoretical foundations. My previous work includes deriving finite sample complexity bounds for SMC methods in [general settings](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-3/Finite-sample-complexity-of-sequential-Monte-Carlo-estimators/10.1214/23-AOS2295.short) and [multimodal probability distributions](https://projecteuclid.org/journals/annals-of-applied-probability/volume-34/issue-1B/Finite-sample-complexity-of-sequential-Monte-Carlo-estimators-on-multimodal/10.1214/23-AAP1989.short) distributions.",
+      description: "I am interested in Sequential Monte Carlo (SMC) algorithms and their theoretical foundations. My previous work includes deriving finite sample complexity bounds for SMC methods in [general settings](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-3/Finite-sample-complexity-of-sequential-Monte-Carlo-estimators/10.1214/23-AOS2295.short) and for sampling from [multimodal probability distributions](https://projecteuclid.org/journals/annals-of-applied-probability/volume-34/issue-1B/Finite-sample-complexity-of-sequential-Monte-Carlo-estimators-on-multimodal/10.1214/23-AAP1989.short).",
       imagePath: "/images/research/Final.png"
     },
     {
       title: "Modeling HIV-1 Broadly Neutralizing Antibodies Mutations",
-      description: "Designed a sampling for simulating somatic hypermutation processes.",
+      description: "Under Construction!",
       imagePath: "/images/research/SOSIP_pyblue_hifi.png"
     }
   ],
