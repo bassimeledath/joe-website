@@ -8,7 +8,7 @@ const config = {
     ]
   },
   aboutMe: {
-    text: "I'm a PhD candidate in Statistical Science at Duke University, focusing on computational complexity, Bayesian inference, Monte Carlo algorithms, and computational vaccine design problems.\n\n Here are my research interests:\n• Computational complexity\n• Bayesian Inference\n• Sequential Monte Carlo methods (SMC)\n• Markov chain Monte Carlo algorithms (MCMC)\n• Randomized Algorithms",
+    text: "I graduated in September 2025 with my PhD in Statistical Science from Duke University. My research focuses on the analysis of Monte Carlo algorithms for high-dimensional statistical inference, with a focus on finite-sample guarantees.",
     imageUrl: "/images/profile.jpg",
     cvUrl: "/cv/cv.pdf"
   },
@@ -84,7 +84,7 @@ const config = {
   //   }
   // ],
   footer: {
-    copyright: "2024 Joseph R. Mathews"
+    copyright: "2025 Joseph R. Mathews"
   }
 };
 
