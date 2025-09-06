@@ -12,7 +12,7 @@ const navItems = [
   { name: 'Publications', href: '/publications' },
   { name: 'Education', href: '/education' },
   { name: 'Teaching', href: '/teaching' },
-  { name: 'Presentations', href: '/presentations' },
+ // { name: 'Presentations', href: '/presentations' },
 ]
 
 export default function Navbar() {
