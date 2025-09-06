@@ -8,7 +8,7 @@ const config = {
     ]
   },
   aboutMe: {
-    text: "I completed my PhD in Statistical Science at Duke University in 2025, supervised by Scott Schmidler. My research focuses on the analysis of Monte Carlo algorithms for high-dimensional statistical inference, with a focus on establishing finite-sample guarantees. I am also interested in designing efficient algorithms for inference in molecular sequence evolution models that incorporate site dependence.",
+    text: "I completed my PhD in Statistical Science at Duke University in 2025, supervised by Scott Schmidler. My research focuses on establishing finite-sample complexity bounds for Monte Carlo algorithms for high-dimensional statistical inference. I particularly interested in designing efficient algorithms for inference in molecular sequence evolution models that incorporate site dependence.",
     imageUrl: "/images/profile.jpg",
     cvUrl: "/cv/cv.pdf"
   },
