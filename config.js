@@ -76,13 +76,13 @@ const config = {
       details: ["Led lab sections", "Helped with R and Stan programming", "Graded reports"]
     }
   ],
-  // presentations: [
-  //   {
-  //     title: "Computational Complexity of Sequential Monte Carlo Samplers on Multimodal Target Distributions",
-  //     event: "Duke University Seminar",
-  //     date: "September 2024"
-  //   }
-  // ],
+  presentations: [
+    {
+      title: "Computational Complexity of Sequential Monte Carlo Samplers on Multimodal Target Distributions",
+      event: "Duke University Seminar",
+      date: "September 2024"
+    }
+  ],
   footer: {
     copyright: "2025 Joseph R. Mathews"
   }
